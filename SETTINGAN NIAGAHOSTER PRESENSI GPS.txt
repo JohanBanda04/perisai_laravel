@@ -1,0 +1,8 @@
+public_html/edesaku-kumhamntb
+
+public_html/presensigps
+
+---------------------------
+nama db : u1603364_presensigps
+user db : u1603364_presensigps_dbuser
+pass : Pr3s3ns1GPS
